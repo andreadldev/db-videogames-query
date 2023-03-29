@@ -11,6 +11,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "queries", "queries", "{4C19193C-8FDA-4123-9298-43ACA908436E}"
 	ProjectSection(SolutionItems) = preProject
 		select.sql = select.sql
+		group-by.sql = group-by.sql
 	EndProjectSection
 EndProject
 Global
